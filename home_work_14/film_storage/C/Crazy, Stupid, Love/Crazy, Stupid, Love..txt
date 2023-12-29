@@ -1,0 +1,3 @@
+Film: Crazy, Stupid, Love.
+Year: 2011
+Director: ['Glenn Ficarra', 'John Requa']

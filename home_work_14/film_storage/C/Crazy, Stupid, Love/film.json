@@ -1,0 +1,25 @@
+{
+    "title": "Crazy, Stupid, Love.",
+    "description": "A middle-aged husband's life changes dramatically...",
+    "director": [
+        "Glenn Ficarra",
+        "John Requa"
+    ],
+    "writer": "Dan Fogelman",
+    "cast": [
+        "Steve Carell",
+        "Ryan Gosling",
+        "Julianne Moore"
+    ],
+    "running_time": 118,
+    "country": "United States",
+    "language": "English",
+    "imdb_rating": 7.4,
+    "year": 2011,
+    "budget": "$50 million",
+    "box_office": "$145 million",
+    "profitable": true,
+    "oscar_nominated": false,
+    "oscar_win": false,
+    "trailer": "https://www.imdb.com/video/vi3722091801/"
+}
